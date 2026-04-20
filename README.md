@@ -16,3 +16,23 @@ Key Deliverables
 Python Script: An OOP-based robust script with error handling.
 Weather Dashboard: A high-resolution PNG image containing 4 analytical charts.
 Data Export: A CSV file containing the raw weather data for Further analysis 
+
+Task 2: Automated Report Generation 📊
+Project Overview
+The objective of this task was to develop a Python script that automates the process of data analysis and generates a formal, formatted PDF report. This simulates a real-world business scenario where raw data needs to be converted into an executive summary for decision-making.
+Key Features
+Automated Data Processing: Reads raw sales data from a CSV file using Pandas.
+Statistical Analysis: Automatically calculates Total Revenue, Average Sales, and identifies Top-performing products.
+Professional PDF Layout: Built using the FPDF library, featuring:
+A corporate header and footer with page numbering.
+Cleanly formatted data tables.
+A "Smart Layout" system that prevents orphaned headings and manages page breaks.
+Integrated Visualization: Embeds high-resolution charts generated via Matplotlib directly into the PDF.
+Tech Stack
+Pandas: Data manipulation and analysis.
+Matplotlib: Scientific data visualization.
+FPDF: PDF document generation and formatting.
+Insights from Sample Report
+The generated report analyzes 6 product categories.
+Mobiles were identified as the highest revenue generator ($72,000).
+Total sales revenue across all categories amounted to $186,500.
