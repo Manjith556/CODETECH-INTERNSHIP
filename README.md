@@ -36,6 +36,9 @@ Insights from Sample Report
 The generated report analyzes 6 product categories.
 Mobiles were identified as the highest revenue generator ($72,000).
 Total sales revenue across all categories amounted to $186,500.
+
+
+
 Task 3: AI Chatbot with NLP 🤖
 
 Project Overview
