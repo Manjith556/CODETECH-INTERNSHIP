@@ -36,3 +36,21 @@ Insights from Sample Report
 The generated report analyzes 6 product categories.
 Mobiles were identified as the highest revenue generator ($72,000).
 Total sales revenue across all categories amounted to $186,500.
+Task 3: AI Chatbot with NLP 🤖
+
+Project Overview
+The goal of this task was to develop a sophisticated AI Chatbot capable of natural language understanding and real-time interaction. Unlike basic chatbots that use keyword matching, this system utilizes a Transformer-based Deep Learning model to analyze the semantic meaning of user queries.
+
+Key Features
+Deep Learning Engine: Powered by Sentence-BERT (SBERT) using the all-MiniLM-L6-v2 model for high-accuracy intent classification.
+Semantic Mapping: Uses Cosine Similarity to mathematically compare user input against a knowledge base, allowing it to understand variations in phrasing.
+Real-Time Awareness: Integrated with Python's datetime module to provide live system date and time information.
+Modern Web UI: Built with Gradio to provide a professional, responsive, and user-friendly chat interface.
+Politeness & Conversational Lifecycle: Handles greetings, gratitude (Thank you), technical info, and formal exit intents (Goodbye).
+
+Tech Stack
+Python: Backend logic.
+Sentence-Transformers: Neural network embeddings.
+Gradio: Web-based interface.
+PyTorch: Tensor processing for AI calculations.
+
